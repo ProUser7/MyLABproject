@@ -1,2 +1,3 @@
-# MyLABproject
-This project was created for using during labs
+Тихон 
+группа №2 
+ИСиТ
